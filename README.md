@@ -8,3 +8,4 @@
 * **บทที่ 5** ข้อมูลข้อความ (Textual Data) ([Slide PDF](https://github.com/santitham/data-science/blob/main/lectures/5-textual-data.pdf) | [Colab Notebook](https://colab.research.google.com/drive/1ZcxrliApaPli2Qawds82O_AfY5S5d7PN))
 * **บทที่ 6** ข้อมูลสัญญาณและรูปภาพ (Signal and Image Data) ([Slide PDF](https://github.com/santitham/data-science/blob/main/lectures/6-signal-and-image-data.pdf) | [Colab Notebook](https://colab.research.google.com/drive/1ZSM0h33iDVAhKZaVOQ7HcwV3xd0bZjUa))
 * **บทที่ 7** การสร้างแบบจำลองถดถอยเชิงเส้น (Linear Regression Modeling) ([Slide PDF](https://github.com/santitham/data-science/blob/main/lectures/7-linear-regression.pdf) | [Colab Notebook](https://colab.research.google.com/drive/10ByXWKbpIyoqnWVKBNwjwMz3wUZGsCNy))
+* **บทที่ 8** การสร้างแบบจำลองการจำแนกด้วยต้นไม้ตัดสินใจ (Classification Modeling with Decision Tree) ([Slide PDF]() | [Colab Notebook](https://colab.research.google.com/drive/1cvP80R1XhTRYG1Jx33wosLCk23UumyOJ))

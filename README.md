@@ -12,6 +12,6 @@
 * **บทที่ 9** การสร้างแบบจำลองการเรียนรู้แบบกลุ่มร่วม (Modeling with Ensemble Learning) ([Slide PDF](https://github.com/santitham/data-science/blob/main/lectures/9-modeling-with-ensemble-learning.pdf) | [Colab Notebook](https://colab.research.google.com/drive/1gNx94lEp7PCV5_ZbqTijGr1I0odmndLE))
 * **บทที่ 10** การแบ่งกลุ่ม (Clustering) ([Slide PDF](https://github.com/santitham/data-science/blob/main/lectures/10-clustering.pdf) | [Colab Notebook](https://colab.research.google.com/drive/1Ts03orFSjtPhbCABcsAbBNWjV3Ncf2Zo?usp=sharing))
 * **บทที่ 11** การทำเหมืองกฏความสัมพันธ์ (Association Rule Mining) ([Slide PDF](https://github.com/santitham/data-science/blob/main/lectures/11-association-rule-mining.pdf) | [Colab Notebook](https://colab.research.google.com/drive/1KofGyVoe-jSInBKQyU_gHEUfsqvPr9VX))
-* **บทที่ 12** การคิดเชิงวิเคราะห์ข้อมูล (Data Analytic Thinking) ([Slide PDF](https://github.com/santitham/data-science/blob/main/lectures/11-association-rule-mining.pdf](https://github.com/santitham/data-science/blob/main/lectures/12-data-analytic-thinking.pdf))
+* **บทที่ 12** การคิดเชิงวิเคราะห์ข้อมูล (Data Analytic Thinking) ([Slide PDF](https://github.com/santitham/data-science/blob/main/lectures/12-data-analytic-thinking.pdf)
 
 ---

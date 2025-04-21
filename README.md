@@ -15,3 +15,4 @@
 * **บทที่ 12** การคิดเชิงวิเคราะห์ข้อมูล (Data Analytic Thinking) ([Slide PDF](https://github.com/santitham/data-science/blob/main/lectures/12-data-analytic-thinking.pdf))
 
 ---
+[Download เอกสารคำสอน](https://www.dropbox.com/scl/fi/6dvdrpw4dfccluj6o89v5/data-science-santitham.pdf?rlkey=qlpvmstn5rakbxnhpqj9q4jcp&dl=1)
